@@ -41,7 +41,7 @@ then
 fi
 
 # Get and Build the Float Wallet
-git clone https://github.com/floatbeta/float floatwallet
+git clone https://github.com/floatbeta/FLOAT floatwallet
 cd ${CWD}/floatwallet
 ./compile.sh
 # modify some constants
