@@ -1,0 +1,1 @@
+java -cp float.jar:conf nxt.Nxt
