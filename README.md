@@ -1,4 +1,4 @@
-# Floatcoin
+# FLOAT
 
 A HDD-mined cryptocurrency using the PoS algorithm or Proof-of-Capacity (POC).
 
@@ -14,10 +14,9 @@ A HDD-mined cryptocurrency using the PoS algorithm or Proof-of-Capacity (POC).
 
 ## Specification
 
-- Proof of Stake Removed
-- Proof of Capacity implemented
-- 4 minute block time
-- 2,158,812,800 coins total
+- Proof of Capacity
+- 15 minute block time
+- 17,000,000 coins total
 - Block reward starts at 10,000/block
 - Block Reward Decreases at 5% each month
 
@@ -27,7 +26,7 @@ A HDD-mined cryptocurrency using the PoS algorithm or Proof-of-Capacity (POC).
 
 ## Build
 
-FLOAT can be build using maven or the compile scripts within this repository.
+FLOAT can be built using maven or via the compile scripts within this repository.
 
 ## Links
 
